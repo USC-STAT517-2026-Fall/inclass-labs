@@ -1,2 +1,6 @@
 # inclass-labs
-A place to submit in class lab results and share wisdom
+A place to submit in class lab results and share wisdom.
+
+In class code lab website: https://guzhiling.github.io/stat517_2026_codelab/
+
+Issues will be open for each question in class -> students can work in pair and submit a short answer -> we will discuss the answers in class
